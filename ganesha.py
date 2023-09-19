@@ -246,3 +246,5 @@ tur.pendown()
 tur.circle(90,65)
 tur.penup()
 done()
+
+print("hello")
