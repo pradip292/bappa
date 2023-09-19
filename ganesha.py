@@ -248,3 +248,4 @@ tur.penup()
 done()
 
 print("hello")
+print("ttyujk")
